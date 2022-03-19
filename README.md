@@ -1,2 +1,2 @@
 # react-dog-images
-Created with CodeSandbox
+Created API called dropdown select menu using React Hooks.
